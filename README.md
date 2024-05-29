@@ -1,4 +1,4 @@
-# Glasses classifier
+# Glasses classification with SVC AND XGBOOST
 
 I just experimented to see how ML algorithms would perform in deep learning tasks . I got an Image dataset , and extracted the individual image features using CNN. 
 I'm currently working on the UI of this project 
